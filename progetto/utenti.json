@@ -1,0 +1,12 @@
+[
+  {
+    "user": "Luca Bianchi",
+    "pwd": "password123",
+    "ruolo": "cliente"
+  },
+  {
+    "user": "marco rossi",
+    "pwd": "password",
+    "ruolo": "cliente"
+  }
+]

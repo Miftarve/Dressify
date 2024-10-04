@@ -1,0 +1,17 @@
+{
+  "name": "dressify",
+  "version": "1.0.0",
+  "description": "REGISITRAZIONE :  {   \"username\": \"john_doe87\",   \"password\": \"S3cur3Pass\" } RISPOSTA : {   \"username\": \"john_doe87\",   \"password\": \"S3cur3Pass!\",   \"email\": \"john.doe87@example.com\",   \"first_name\": \"John\",   \"last_name\": \"Doe\",   \"age\": 28 }",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "fs": "^0.0.1-security"
+  }
+}
